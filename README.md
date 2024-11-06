@@ -1,10 +1,10 @@
 
 
-# HDO BOX - Movies app for Android, iOS and TV (Official)
+# HDO BOX - Best Free Movie app for Android, iOS and TV (Official)
 
 ## VISIT OUR OFFICIAL WEBSITE [https://hdoapp.com](https://hdoapp.com)
 
-
+### ✅Last Updated APK: 01/11/2024 (1 November 2024)
 
 ![HDO BOX APP](https://hdoapp.com/images/banner_hdo_box.png)
 
