@@ -4,7 +4,7 @@
 
 ## VISIT OUR OFFICIAL WEBSITE [https://hdoapp.com](https://hdoapp.com)
 
-### ✅Last Updated APK: 01/11/2024 (1 November 2024)
+### ✅Last Updated APK: 07/11/2024 (7 November 2024)
 
 ![HDO BOX APP](https://hdoapp.com/images/banner_hdo_box.png)
 
