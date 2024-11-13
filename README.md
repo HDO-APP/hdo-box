@@ -21,7 +21,7 @@ HDO BOX stands out from other streaming apps with a range of user-centered featu
 1. **1-Click to Play**: Enjoy instant streaming with just one click. No complicated setup; just tap and start watching.
 2. **Completely Free Access**: HDO BOX is 100% free, offering full access to all content without any paid versions or hidden fees.
 3. **Cool, User-Friendly Interface**: With a sleek design and organized navigation, users can quickly find favorite content displayed prominently on the home screen.
-4. **Subtitle Support in Over 25 Languages**: Choose subtitles in your preferred language, including Spanish, French, German, Arabic, and many more, making HDO BOX ideal for a global audience.
+4. **Subtitle Support in Over 35 Languages**: Choose subtitles in your preferred language, including Spanish, French, German, Arabic, and many more, making HDO BOX ideal for a global audience.
 5. **Regular Updates for Bug-Free Experience**: HDO BOX delivers timely updates, ensuring access to the latest content and maintaining a smooth, bug-free experience.
 6. **Extensive HD Content Library**: Access a vast collection of high-definition movies and shows, providing clear visuals and high-quality streaming.
 
