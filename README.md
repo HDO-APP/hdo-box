@@ -3,7 +3,9 @@
 ## Visit Our Official Website [https://hdoapp.com](https://hdoapp.com)
 
 ### ✅ Last Updated APK: 07/11/2024 (7 November 2024)
-[![Download](https://img.shields.io/badge/Download-v4.0.1-FBD0A5)](https://github.com/fsmdeveloper/hdo.box/releases/download/v4.0.1/hdo_box_v4.0.1.apk)
+<a href="https://github.com/fsmdeveloper/hdo.box/releases/download/v4.0.1/hdo_box_v4.0.1.apk">
+  <img src="https://img.shields.io/badge/Download-v4.0.1-FBD0A5" alt="Download" width="200"/>
+</a>
 
 
 ![HDO BOX APP](https://hdoapp.com/images/banner_hdo_box.png)
