@@ -4,7 +4,7 @@
 
 ### ✅ Last Updated APK: 07/11/2024 (7 November 2024)
 <a href="https://github.com/fsmdeveloper/hdo.box/releases/download/v4.0.1/hdo_box_v4.0.1.apk">
-  <img src="https://img.shields.io/badge/Download-v4.0.1-FBD0A5" alt="Download" width="200"/>
+  <img src="https://img.shields.io/badge/Download-v4.0.1-FBD0A5" alt="Download" width="180"/>
 </a>
 
 
