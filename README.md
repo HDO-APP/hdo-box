@@ -9,8 +9,6 @@
 
 
 ![HDO BOX APP](https://hdoapp.com/images/banner_hdo_box.png)
-![image](https://github.com/user-attachments/assets/4167c629-d59c-41f0-bd4a-233d16d3cbfd)
-![image](https://github.com/user-attachments/assets/186ab96f-aa10-4871-8c6c-4645335cf426)
 
 
 
@@ -50,6 +48,8 @@ In addition to its core functionality, HDO BOX includes extra features to elevat
 
 ### Native Video Player: MX Player-Like Experience with Modern Features
 
+![image](https://github.com/user-attachments/assets/186ab96f-aa10-4871-8c6c-4645335cf426)
+
 HDO BOX includes a powerful, built-in video player that offers an experience comparable to popular players like MX Player but with added modern features to enhance your streaming experience:
 
 1. **Intuitive Gesture Controls**: Adjust volume, brightness, and playback speed easily with swipe gestures, allowing for quick and seamless control during viewing.
@@ -71,6 +71,8 @@ HDO BOX includes a powerful, built-in video player that offers an experience com
 With these modern features, the HDO BOX native player combines the familiar functionality of MX Player with enhanced options that make streaming more enjoyable and customizable. Whether you’re watching a movie or bingeing a series, HDO BOX’s video player makes it effortless and adaptable to any viewer’s needs.
 
 ---
+
+![image](https://github.com/user-attachments/assets/4167c629-d59c-41f0-bd4a-233d16d3cbfd)
 
 ### How to Download and Install HDO BOX
 
