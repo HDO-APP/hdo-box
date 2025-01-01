@@ -1,4 +1,4 @@
-# HDO BOX - Download HDO BOX APK Free for Android, iOS & Smart TV
+# HDO BOX - Download HDO BOX APK Free for Android, iOS, & TV
 
 ## Visit the Official Website of HDO BOX App: [https://hdoapp.com](https://hdoapp.com)
 Discover the best features, updates, and more on the official website of HDO BOX App.
