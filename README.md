@@ -1,14 +1,10 @@
 # HDO BOX - Download HDO BOX APK Free for Android, iOS, & TV
 
-## Visit the Official Website of HDO BOX App: [https://hdoapp.com](https://hdoapp.com)
-Discover the best features, updates, and more on the official website of HDO BOX App.
+## Visit Our Official Website [https://hdoapp.com](https://hdoapp.com)
 
-## Latest APK Version of HDO BOX
-### ✅ APK Version 4.0.1 - Last Updated: 07/11/2024 (7 November 2024)
-Stay up to date with the latest version of HDO BOX for **Android, iOS, and TV**. Get the APK now to enjoy a seamless streaming experience.
-
+### ✅ Last Updated APK: 07/11/2024 (7 November 2024)
 <a href="https://github.com/fsmdeveloper/hdo.box/releases/download/v4.0.1/hdo_box_v4.0.1.apk">
-  <img src="https://img.shields.io/badge/Download-v4.0.1-FBD0A5" alt="Download HDO BOX APK v4.0.1" width="180"/>
+  <img src="https://img.shields.io/badge/Download-v4.0.1-FBD0A5" alt="Download" width="180"/>
 </a>
 
 
